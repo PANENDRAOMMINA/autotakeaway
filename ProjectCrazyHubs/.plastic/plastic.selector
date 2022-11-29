@@ -1,0 +1,4 @@
+repository "project-crazy-hubs@phaneendraommina@cloud"
+  path "/"
+    br "/main"
+    co "/main"
